@@ -13,7 +13,7 @@
    |KNN Classifier |0.778|
 
 
-## Language used: Python
+### Language used: Python
 ### Tools used : pandas, numpy, seaborn, matplotlib, sklear
 
 &emsp;
